@@ -1,5 +1,5 @@
 {
-  "name": "@linagora/grunt-lint-pattern",
+  "name": "grunt-lint-pattern",
   "description": "Search for patterns in files.  Error if any match.",
   "version": "0.1.3",
   "homepage": "https://github.com/chrisdanford/grunt-lint-pattern",
