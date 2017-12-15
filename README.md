@@ -16,7 +16,7 @@ npm install @linagora/grunt-lint-pattern --save-dev
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks('grunt-lint-pattern');
+grunt.loadNpmTasks('@linagora/grunt-lint-pattern');
 ```
 
 ## The "lint_pattern" task
